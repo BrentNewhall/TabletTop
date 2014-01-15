@@ -6,3 +6,5 @@ TabletTop is intended to be a tablet/phone-based tabletop RPG system, being desi
 This is where we're collaborating on the software.
 
 Someone suggested Phonegap as a cross-platform development tool. It's a possibility.
+
+If you have suggestions, contact brent@brentnewhall.com
